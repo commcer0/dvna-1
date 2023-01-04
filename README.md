@@ -49,7 +49,7 @@ Create a `vars.env` with the desired database configuration
 ```
 MYSQL_USER=dvna
 MYSQL_DATABASE=dvna
-MYSQL_PASSWORD=passw0rd
+MYSQL_PASSWORD=passw0rd2
 MYSQL_RANDOM_ROOT_PASSWORD=yes
 ```
 
