@@ -21,7 +21,7 @@ app.use(fileUpload());
 
 // Intialize Session
 app.use(session({
-  secret: 'keyboard cat dog test2',
+  secret: 'mysecretpassword',
   resave: true,
   saveUninitialized: true,
   cookie: { secure: false }
